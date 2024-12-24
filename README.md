@@ -37,4 +37,4 @@
 
 ###
 
-<p align="left">Inside the repository is the code of the function to find the answer to this exercise</p>
+<p align="left">Inside the repository is the code of the function to find the answer to this exercise (challenge.html)</p>
